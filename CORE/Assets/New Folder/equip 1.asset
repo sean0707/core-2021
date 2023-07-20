@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad54e29534ffe24188debacc0a5ac89, type: 3}
+  m_Name: equip 1
+  m_EditorClassIdentifier: 
+  "\u540D\u7A31": amor
+  "\u5716\u793A": {fileID: 21300000, guid: 43036a0f2a3608b4482a56168eb0e412, type: 3}
+  "\u6578\u91CF": 1
+  "\u7269\u4EF6": {fileID: 0}
+  atk: 10
+  def: 5
+  spd: 0

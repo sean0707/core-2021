@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 55bad91d59ea02d4094f67a552a7d799
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001
+    100002: 002
+    100004: 004
+    100006: 005
+    100008: 006
+    100010: 007
+    100012: //RootNode
+    100014: Ariados
+    100016: Bone001
+    100018: Bone002
+    100020: Bone003
+    100022: Bone004
+    100024: Bone005
+    100026: Bone006
+    100028: Bone007
+    100030: Bone008
+    100032: Bone009
+    100034: Bone010
+    100036: Bone011
+    100038: Bone012
+    100040: Bone013
+    100042: Bone014
+    100044: Bone015
+    100046: Bone016
+    100048: Bone017
+    100050: Bone018
+    100052: Bone019
+    100054: Bone020
+    100056: Bone021
+    100058: Bone022
+    100060: Bone023
+    100062: Bone024
+    100064: Bone025
+    100066: Bone026
+    100068: vsn_mesh_0_BodySpc
+    400000: 001
+    400002: 002
+    400004: 004
+    400006: 005
+    400008: 006
+    400010: 007
+    400012: //RootNode
+    400014: Ariados
+    400016: Bone001
+    400018: Bone002
+    400020: Bone003
+    400022: Bone004
+    400024: Bone005
+    400026: Bone006
+    400028: Bone007
+    400030: Bone008
+    400032: Bone009
+    400034: Bone010
+    400036: Bone011
+    400038: Bone012
+    400040: Bone013
+    400042: Bone014
+    400044: Bone015
+    400046: Bone016
+    400048: Bone017
+    400050: Bone018
+    400052: Bone019
+    400054: Bone020
+    400056: Bone021
+    400058: Bone022
+    400060: Bone023
+    400062: Bone024
+    400064: Bone025
+    400066: Bone026
+    400068: vsn_mesh_0_BodySpc
+    2100000: 'Material #9'
+    2100002: pm0867_00_Body1_tga-material
+    2100004: BodySpc_mat
+    4300000: Ariados
+    4300002: 001
+    4300004: 002
+    4300006: 004
+    4300008: 005
+    4300010: vsn_mesh_0_BodySpc
+    4300012: 006
+    4300014: 007
+    7400000: ew 003
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: 001
+    13700002: 002
+    13700004: 004
+    13700006: 005
+    13700008: 006
+    13700010: 007
+    13700012: Ariados
+    13700014: vsn_mesh_0_BodySpc
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ew 003
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

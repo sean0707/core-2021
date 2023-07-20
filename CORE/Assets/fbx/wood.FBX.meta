@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: f61db71904d6a8642a8bc6361cde0c8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Pallets
+    100002: Pallets.001
+    100004: Pallets.002
+    100006: Pallets.003
+    100008: Pallets.004
+    100010: Wood
+    100012: //RootNode
+    100014: Wood.001
+    100016: Wood.002
+    100018: Wood.003
+    100020: Wood.004
+    100022: Wood.005
+    100024: Wood.006
+    100026: Wood.007
+    100028: Wood.008
+    100030: Wood.009
+    100032: Wood.010
+    100034: Wood.011
+    100036: Wood.012
+    100038: Wood.013
+    400000: Pallets
+    400002: Pallets.001
+    400004: Pallets.002
+    400006: Pallets.003
+    400008: Pallets.004
+    400010: Wood
+    400012: //RootNode
+    400014: Wood.001
+    400016: Wood.002
+    400018: Wood.003
+    400020: Wood.004
+    400022: Wood.005
+    400024: Wood.006
+    400026: Wood.007
+    400028: Wood.008
+    400030: Wood.009
+    400032: Wood.010
+    400034: Wood.011
+    400036: Wood.012
+    400038: Wood.013
+    2100000: Pallets
+    2100002: Wood
+    2300000: Pallets
+    2300002: Pallets.001
+    2300004: Pallets.002
+    2300006: Pallets.003
+    2300008: Pallets.004
+    2300010: Wood
+    2300012: Wood.001
+    2300014: Wood.002
+    2300016: Wood.003
+    2300018: Wood.004
+    2300020: Wood.005
+    2300022: Wood.006
+    2300024: Wood.007
+    2300026: Wood.008
+    2300028: Wood.009
+    2300030: Wood.010
+    2300032: Wood.011
+    2300034: Wood.012
+    2300036: Wood.013
+    3300000: Pallets
+    3300002: Pallets.001
+    3300004: Pallets.002
+    3300006: Pallets.003
+    3300008: Pallets.004
+    3300010: Wood
+    3300012: Wood.001
+    3300014: Wood.002
+    3300016: Wood.003
+    3300018: Wood.004
+    3300020: Wood.005
+    3300022: Wood.006
+    3300024: Wood.007
+    3300026: Wood.008
+    3300028: Wood.009
+    3300030: Wood.010
+    3300032: Wood.011
+    3300034: Wood.012
+    3300036: Wood.013
+    4300000: Pallets.004
+    4300002: Pallets.003
+    4300004: Pallets.002
+    4300006: Pallets.001
+    4300008: Wood.013
+    4300010: Wood.012
+    4300012: Wood.011
+    4300014: Wood.010
+    4300016: Wood.009
+    4300018: Wood.008
+    4300020: Wood.007
+    4300022: Wood.006
+    4300024: Wood.005
+    4300026: Wood.004
+    4300028: Wood.003
+    4300030: Wood.002
+    4300032: Wood.001
+    4300034: Wood
+    4300036: Pallets
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

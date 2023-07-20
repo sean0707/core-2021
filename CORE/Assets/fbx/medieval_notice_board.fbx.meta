@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d8579b97c3bc64e4c9bf9cdb7a8717ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Collada visual scene group
+    100002: defaultMaterial
+    100004: defaultMaterial 1
+    100006: defaultMaterial 10
+    100008: defaultMaterial 11
+    100010: defaultMaterial 12
+    100012: defaultMaterial 13
+    100014: defaultMaterial 2
+    100016: defaultMaterial 3
+    100018: defaultMaterial 4
+    100020: defaultMaterial 5
+    100022: defaultMaterial 6
+    100024: defaultMaterial 7
+    100026: defaultMaterial 8
+    100028: defaultMaterial 9
+    100030: Mainbody
+    100032: //RootNode
+    100034: Notice_Board
+    100036: Pages
+    100038: pCube1
+    100040: pCube2
+    100042: pCube3
+    100044: pCube4
+    100046: pCube5
+    100048: pCube6
+    100050: pCube7
+    100052: Pins
+    100054: Poster_back
+    100056: Posts
+    100058: Roof_connection
+    100060: Roof_Underneath
+    100062: Tiles
+    400000: Collada visual scene group
+    400002: defaultMaterial
+    400004: defaultMaterial 1
+    400006: defaultMaterial 10
+    400008: defaultMaterial 11
+    400010: defaultMaterial 12
+    400012: defaultMaterial 13
+    400014: defaultMaterial 2
+    400016: defaultMaterial 3
+    400018: defaultMaterial 4
+    400020: defaultMaterial 5
+    400022: defaultMaterial 6
+    400024: defaultMaterial 7
+    400026: defaultMaterial 8
+    400028: defaultMaterial 9
+    400030: Mainbody
+    400032: //RootNode
+    400034: Notice_Board
+    400036: Pages
+    400038: pCube1
+    400040: pCube2
+    400042: pCube3
+    400044: pCube4
+    400046: pCube5
+    400048: pCube6
+    400050: pCube7
+    400052: Pins
+    400054: Poster_back
+    400056: Posts
+    400058: Roof_connection
+    400060: Roof_Underneath
+    400062: Tiles
+    2100000: pins
+    2300000: defaultMaterial
+    2300002: defaultMaterial 1
+    2300004: defaultMaterial 10
+    2300006: defaultMaterial 11
+    2300008: defaultMaterial 12
+    2300010: defaultMaterial 13
+    2300012: defaultMaterial 2
+    2300014: defaultMaterial 3
+    2300016: defaultMaterial 4
+    2300018: defaultMaterial 5
+    2300020: defaultMaterial 6
+    2300022: defaultMaterial 7
+    2300024: defaultMaterial 8
+    2300026: defaultMaterial 9
+    3300000: defaultMaterial
+    3300002: defaultMaterial 1
+    3300004: defaultMaterial 10
+    3300006: defaultMaterial 11
+    3300008: defaultMaterial 12
+    3300010: defaultMaterial 13
+    3300012: defaultMaterial 2
+    3300014: defaultMaterial 3
+    3300016: defaultMaterial 4
+    3300018: defaultMaterial 5
+    3300020: defaultMaterial 6
+    3300022: defaultMaterial 7
+    3300024: defaultMaterial 8
+    3300026: defaultMaterial 9
+    4300000: defaultMaterial
+    4300002: defaultMaterial
+    4300004: defaultMaterial
+    4300006: defaultMaterial
+    4300008: defaultMaterial
+    4300010: defaultMaterial
+    4300012: defaultMaterial
+    4300014: defaultMaterial
+    4300016: defaultMaterial
+    4300018: defaultMaterial
+    4300020: defaultMaterial
+    4300022: defaultMaterial
+    4300024: defaultMaterial
+    4300026: defaultMaterial
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
